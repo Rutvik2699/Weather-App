@@ -187,7 +187,7 @@ body{
     .future-forecast{
         justify-content: start;
         align-items: none;
-        overflow-y: scroll;
+        overflow-x: scroll;
     }
 }
     
